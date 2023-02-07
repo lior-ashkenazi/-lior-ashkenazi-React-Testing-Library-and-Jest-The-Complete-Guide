@@ -3,7 +3,7 @@ import RepositoriesSummary from "./RepositoriesSummary";
 
 test("displays information about the repository", () => {
   const repository = {
-    language: "JavaScript",
+    language: "Javascript",
     stargazers_count: 5,
     forks: 30,
     open_issues: 1,
